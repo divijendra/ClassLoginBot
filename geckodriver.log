@@ -1,0 +1,2013 @@
+1605587400413	geckodriver	INFO	Listening on 127.0.0.1:36569
+1605587401353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3cKgUJ"
+1605587410110	Marionette	INFO	Listening on port 46635
+1605587410207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+
+(firefox-esr:5923): Gtk-CRITICAL **: 10:00:49.673: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox-esr:5923): Gtk-CRITICAL **: 10:00:49.699: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.10.3.323/pb.api.min.v3.js?v=d3417745a43cb08f0c910a020f03b287, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.10.3.323/pb.api.min.v3.js?v=d3417745a43cb08f0c910a020f03b287, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox-esr:5923): Gtk-CRITICAL **: 10:01:17.142: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox-esr:5923): Gtk-CRITICAL **: 10:01:17.179: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1605588956568	Marionette	INFO	Stopped listening on port 46635
+1605588970763	geckodriver	INFO	Listening on 127.0.0.1:37125
+1605588970774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej0yZx4"
+1605588976587	Marionette	INFO	Listening on port 32851
+1605588976597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.10.3.323/pb.api.min.v3.js?v=d3417745a43cb08f0c910a020f03b287, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.10.3.323/pb.api.min.v3.js?v=d3417745a43cb08f0c910a020f03b287, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox-esr:6802): Gtk-CRITICAL **: 10:26:31.795: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox-esr:6802): Gtk-CRITICAL **: 10:26:31.819: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox-esr:6802): Gtk-CRITICAL **: 10:26:45.399: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox-esr:6802): Gtk-CRITICAL **: 10:26:45.407: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1605590271966	Marionette	INFO	Stopped listening on port 32851
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1605591000105	geckodriver	INFO	Listening on 127.0.0.1:47625
+1605591000115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelYqHFV"
+1605591005326	Marionette	INFO	Listening on port 38221
+1605591005352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.10.3.323/pb.api.min.v3.js?v=d3417745a43cb08f0c910a020f03b287, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.10.3.323/pb.api.min.v3.js?v=d3417745a43cb08f0c910a020f03b287, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox-esr:7603): Gtk-CRITICAL **: 11:00:19.515: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox-esr:7603): Gtk-CRITICAL **: 11:00:19.533: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox-esr:7603): Gtk-CRITICAL **: 11:00:34.693: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox-esr:7603): Gtk-CRITICAL **: 11:00:34.701: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://akamaicdn.webex.com/pb/web/40.10.3.323/dist/simpleapi.js?v=aa7f29b53dae7a547ab4a7c8dba6129d, line 18: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1605594109209	Marionette	INFO	Stopped listening on port 38221
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1606196350488	geckodriver	INFO	Listening on 127.0.0.1:39507
+1606196350493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX3pyKA"
+
+(firefox:3560): Gtk-WARNING **: 11:09:16.066: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:3560): Gtk-WARNING **: 11:09:16.077: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606196362363	Marionette	INFO	Listening on port 32935
+1606196362721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:3560): Gtk-CRITICAL **: 11:09:41.443: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3560): Gtk-CRITICAL **: 11:09:41.459: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+
+(firefox:3560): Gtk-CRITICAL **: 11:11:17.260: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3560): Gtk-CRITICAL **: 11:11:17.262: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/simpleapi.js?v=bf383055a52e168405148c0236c29c9b, line 18: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1606198994335	geckodriver	INFO	Listening on 127.0.0.1:40081
+1606198995277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen5098X"
+
+(firefox:3526): Gtk-WARNING **: 11:53:22.058: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:3526): Gtk-WARNING **: 11:53:22.065: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606199011495	Marionette	INFO	Listening on port 43439
+1606199012019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:3526): Gtk-CRITICAL **: 11:53:56.248: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3526): Gtk-CRITICAL **: 11:53:56.250: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3526): Gtk-CRITICAL **: 11:54:12.357: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:3526): Gtk-CRITICAL **: 11:54:12.360: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1606200245459	Marionette	INFO	Stopped listening on port 43439
+1606275000338	geckodriver	INFO	Listening on 127.0.0.1:60115
+1606275001315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekToeXq"
+
+(firefox:26531): Gtk-WARNING **: 09:00:02.934: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:26531): Gtk-WARNING **: 09:00:02.940: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606275005779	Marionette	INFO	Listening on port 35351
+1606275006067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606275035728	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606275175649	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606275316826	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606275479465	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:26531): Gtk-CRITICAL **: 09:10:55.391: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:26531): Gtk-CRITICAL **: 09:10:55.400: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+
+(firefox:26531): Gtk-CRITICAL **: 09:11:12.827: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:26531): Gtk-CRITICAL **: 09:11:12.833: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/simpleapi.js?v=bf383055a52e168405148c0236c29c9b, line 18: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1606278683375	Marionette	INFO	Stopped listening on port 35351
+1606278683990	geckodriver	INFO	Listening on 127.0.0.1:60969
+1606278684002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelzGzUq"
+
+(firefox:29181): Gtk-WARNING **: 10:01:24.452: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:29181): Gtk-WARNING **: 10:01:24.457: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606278685841	Marionette	INFO	Listening on port 38615
+1606278685961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nebulaby.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 4: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaby.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 14: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1606278729245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 4: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 14: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:29181): Gtk-CRITICAL **: 10:02:25.116: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:29181): Gtk-CRITICAL **: 10:02:25.119: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1606282066511	Marionette	INFO	Stopped listening on port 38615
+1606448411471	geckodriver	INFO	Listening on 127.0.0.1:53567
+1606448412470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQr1DcK"
+
+(firefox:8436): Gtk-WARNING **: 09:10:18.062: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:8436): Gtk-WARNING **: 09:10:18.067: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606448424637	Marionette	INFO	Listening on port 41715
+1606448424937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nebulaby.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 4: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaby.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 14: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 4: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 14: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:8436): Gtk-CRITICAL **: 09:11:18.854: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:8436): Gtk-CRITICAL **: 09:11:18.857: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:8436): Gtk-WARNING **: 09:56:30.828: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:8436): Gtk-WARNING **: 09:56:30.833: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+1606451191403	Marionette	INFO	Stopped listening on port 41715
+1606451400100	geckodriver	INFO	Listening on 127.0.0.1:39435
+1606451400108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerEPeZh"
+
+(firefox:11946): Gtk-WARNING **: 10:00:00.546: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:11946): Gtk-WARNING **: 10:00:00.552: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606451402017	Marionette	INFO	Listening on port 40517
+1606451402132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606451488820	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606451615420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606451741972	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606451870949	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://nebulaby.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaby.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1606452003013	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+(firefox:11946): Gtk-CRITICAL **: 10:15:17.626: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:11946): Gtk-CRITICAL **: 10:15:17.630: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:11946): Gtk-CRITICAL **: 10:15:17.766: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:11946): Gtk-CRITICAL **: 10:15:17.773: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1042: TypeError: can't access dead object
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1606452430331	Marionette	INFO	Stopped listening on port 40517
+1606452434414	geckodriver	INFO	Listening on 127.0.0.1:42615
+1606452434422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyFg9FG"
+
+(firefox:16606): Gtk-WARNING **: 10:17:14.871: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:16606): Gtk-WARNING **: 10:17:14.876: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606452436672	Marionette	INFO	Listening on port 42167
+1606452436759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/pb.api.min.v3.js?v=d71826f4e54307f4239ca41231839eb8, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:16606): Gtk-CRITICAL **: 10:17:36.588: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:16606): Gtk-CRITICAL **: 10:17:36.591: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:16606): Gtk-CRITICAL **: 10:17:50.061: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:16606): Gtk-CRITICAL **: 10:17:50.065: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/simpleapi.js?v=bf383055a52e168405148c0236c29c9b, line 18: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1606455057400	Marionette	INFO	Stopped listening on port 42167
+1606883400326	geckodriver	INFO	Listening on 127.0.0.1:56843
+1606883401359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUvN61P"
+
+(firefox:5311): Gtk-WARNING **: 10:00:08.665: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:5311): Gtk-WARNING **: 10:00:08.673: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606883415355	Marionette	INFO	Listening on port 43895
+1606883415811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://nebulaby.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 4: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://nebulaby.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 14: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 4: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.11.3.335/dist/api.js?v=00a5b1a9a3716ec31fb0f2d017e5a9bb, line 14: asm.js type error: expecting argument type declaration for 'e' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:5311): Gtk-CRITICAL **: 10:01:11.098: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5311): Gtk-CRITICAL **: 10:01:11.101: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:5311): Gtk-WARNING **: 10:56:54.354: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:5311): Gtk-WARNING **: 10:56:54.367: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+1606886815006	Marionette	INFO	Stopped listening on port 43895
+1609727875034	geckodriver	INFO	Listening on 127.0.0.1:44257
+1609727875971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRmevTD"
+
+(firefox:8522): Gtk-WARNING **: 08:07:57.689: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:8522): Gtk-WARNING **: 08:07:57.694: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609727881496	Marionette	INFO	Listening on port 41075
+1609727881824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609727909203	Marionette	INFO	Stopped listening on port 41075
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609728014408	geckodriver	INFO	Listening on 127.0.0.1:43727
+1609728014414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSWbagQ"
+
+(firefox:8972): Gtk-WARNING **: 08:10:14.903: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:8972): Gtk-WARNING **: 08:10:14.908: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609728017616	Marionette	INFO	Listening on port 36383
+1609728017642	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 0: asm.js type error: Disabled by debugger
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 0: asm.js type error: Disabled by debugger
+
+(firefox:8972): Gtk-CRITICAL **: 08:11:29.691: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:8972): Gtk-CRITICAL **: 08:11:29.716: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: resource://devtools/client/inspector/flexbox/flexbox.js, line 55: TypeError: this.inspector is null
+JavaScript error: resource://devtools/client/inspector/grids/grid-inspector.js, line 104: TypeError: this.inspector is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609728142443	Marionette	INFO	Stopped listening on port 36383
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609731272356	geckodriver	INFO	Listening on 127.0.0.1:58831
+1609731272361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2foGlR"
+
+(firefox:13320): Gtk-WARNING **: 09:04:32.838: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:13320): Gtk-WARNING **: 09:04:32.843: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609731275173	Marionette	INFO	Listening on port 45555
+1609731275284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609731359433	Marionette	INFO	Stopped listening on port 45555
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609731361058	geckodriver	INFO	Listening on 127.0.0.1:48849
+1609731361065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHdlsAQ"
+
+(firefox:13664): Gtk-WARNING **: 09:06:01.545: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:13664): Gtk-WARNING **: 09:06:01.550: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609731363956	Marionette	INFO	Listening on port 39821
+1609731363994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609731490486	Marionette	INFO	Stopped listening on port 39821
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609731491760	geckodriver	INFO	Listening on 127.0.0.1:59725
+1609731491767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileen1IqG"
+
+(firefox:14162): Gtk-WARNING **: 09:08:12.269: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:14162): Gtk-WARNING **: 09:08:12.275: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609731494721	Marionette	INFO	Listening on port 40189
+1609731494813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:14162): Gtk-CRITICAL **: 09:08:40.594: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:14162): Gtk-CRITICAL **: 09:08:40.610: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1609731549959	Marionette	INFO	Stopped listening on port 40189
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609736400106	geckodriver	INFO	Listening on 127.0.0.1:44741
+1609736400129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHkdBRm"
+
+(firefox:20798): Gtk-WARNING **: 10:30:00.630: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:20798): Gtk-WARNING **: 10:30:00.635: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609736403677	Marionette	INFO	Listening on port 40403
+1609736403768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:20798): Gtk-CRITICAL **: 10:30:25.594: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:20798): Gtk-CRITICAL **: 10:30:25.608: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:20798): Gtk-CRITICAL **: 10:36:08.615: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:20798): Gtk-CRITICAL **: 10:36:08.618: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://akamaicdn.webex.com/pb/web/40.12.3.358/dist/simpleapi.js?v=33e6cdb5e75d45e72af6522e63620848, line 18: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1609740600690	Marionette	INFO	Stopped listening on port 40403
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609741800001	geckodriver	INFO	Listening on 127.0.0.1:53897
+1609741800004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileesGwtb"
+
+(firefox:32108): Gtk-WARNING **: 12:00:00.425: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:32108): Gtk-WARNING **: 12:00:00.429: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609741802648	Marionette	INFO	Listening on port 34333
+1609741802729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.3.358/pb.api.min.v3.js?v=fba9efc1fe714d8a9cfd6186a2a8c382, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:32108): Gtk-CRITICAL **: 12:00:20.549: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:32108): Gtk-CRITICAL **: 12:00:20.558: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:32108): Gtk-CRITICAL **: 12:00:38.807: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:32108): Gtk-CRITICAL **: 12:00:38.820: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: https://akamaicdn.webex.com/pb/web/40.12.3.358/dist/simpleapi.js?v=33e6cdb5e75d45e72af6522e63620848, line 18: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://akamaicdn.webex.com/pb/web/40.12.3.358/dist/simpleapi.js?v=33e6cdb5e75d45e72af6522e63620848, line 18: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://akamaicdn.webex.com/pb/web/40.12.3.358/dist/simpleapi.js?v=33e6cdb5e75d45e72af6522e63620848, line 18: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1609745763694	Marionette	INFO	Stopped listening on port 34333
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610343354675	geckodriver	INFO	Listening on 127.0.0.1:47909
+1610343355599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVkZxqN"
+
+(firefox:9881): Gtk-WARNING **: 11:06:02.315: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:9881): Gtk-WARNING **: 11:06:02.321: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610343372307	Marionette	INFO	Listening on port 40499
+1610343372711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+
+(firefox:9881): Gtk-CRITICAL **: 11:06:30.163: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:9881): Gtk-CRITICAL **: 11:06:30.172: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.4.381/pb.api.min.v3.js?v=e6e2b7355c5353ff63790cb685eff734, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.4.381/pb.api.min.v3.js?v=e6e2b7355c5353ff63790cb685eff734, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+1610343421315	Marionette	INFO	Stopped listening on port 40499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610346600105	geckodriver	INFO	Listening on 127.0.0.1:49053
+1610346600115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledtyL9r"
+
+(firefox:11578): Gtk-WARNING **: 12:00:00.597: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:11578): Gtk-WARNING **: 12:00:00.602: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610346602926	Marionette	INFO	Listening on port 32903
+1610346603042	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.4.381/pb.api.min.v3.js?v=e6e2b7355c5353ff63790cb685eff734, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/40.12.4.381/pb.api.min.v3.js?v=e6e2b7355c5353ff63790cb685eff734, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:11578): Gtk-CRITICAL **: 12:00:32.461: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:11578): Gtk-CRITICAL **: 12:00:32.472: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:11578): Gtk-CRITICAL **: 12:01:05.540: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:11578): Gtk-CRITICAL **: 12:01:05.543: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610351100664	Marionette	INFO	Stopped listening on port 32903
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614313800643	geckodriver	INFO	Listening on 127.0.0.1:52171
+1614313801571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLChvQ9"
+
+(firefox:178405): Gtk-WARNING **: 10:00:08.679: Theme directory actions/22-night of theme Mojave-CT-Night-Mode has no size field
+
+
+(firefox:178405): Gtk-WARNING **: 10:00:08.698: Theme directory panel/22 of theme Mojave-CT-Night-Mode has no size field
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614313817809	Marionette	INFO	Listening on port 32925
+1614313818275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614313818390	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1614313827920	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614313961673	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614314092519	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1614314224613	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614314357039	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614314487414	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.2.3.637/pb.api.min.v3.js?v=562ac69638c70d3673511121960a8c92, line 13: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.2.3.637/pb.api.min.v3.js?v=562ac69638c70d3673511121960a8c92, line 47: asm.js type error: expecting argument type declaration for 'a' of the form 'arg = arg|0' or 'arg = +arg' or 'arg = fround(arg)'
+
+(firefox:178405): Gtk-CRITICAL **: 10:13:46.389: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:178405): Gtk-CRITICAL **: 10:13:46.398: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:178405): Gtk-CRITICAL **: 10:13:59.624: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:178405): Gtk-CRITICAL **: 10:13:59.632: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1614317515802	Marionette	INFO	Stopped listening on port 32925
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 08:59:08.706: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:59:16.548: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:59:17.011: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:153503): GLib-GIO-WARNING **: 08:59:17.433: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1615519758095	Marionette	INFO	Listening on port 46327
+Gtk-Message: 08:59:18.102: Failed to load module "appmenu-gtk-module"
+1615519758211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:153503): Gtk-CRITICAL **: 08:59:25.682: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:153503): Gtk-CRITICAL **: 08:59:25.684: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:153503): Gtk-CRITICAL **: 09:03:29.099: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:153503): Gtk-CRITICAL **: 09:03:29.101: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1615523083456	Marionette	INFO	Stopped listening on port 46327
+Gtk-Message: 10:00:01.208: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:00:01.768: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:00:02.054: Failed to load module "appmenu-gtk-module"
+
+(firefox:181435): GLib-GIO-WARNING **: 10:00:02.135: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615523402700	Marionette	INFO	Listening on port 35149
+1615523402781	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 10:00:02.803: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:181435): Gtk-CRITICAL **: 10:00:17.077: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:181435): Gtk-CRITICAL **: 10:00:17.081: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:181435): Gtk-CRITICAL **: 10:00:27.409: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:181435): Gtk-CRITICAL **: 10:00:27.412: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1615527379894	Marionette	INFO	Stopped listening on port 35149
+Gtk-Message: 10:00:01.248: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:00:01.948: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:00:02.257: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:332003): GLib-GIO-WARNING **: 10:00:02.379: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1615955402874	Marionette	INFO	Listening on port 39339
+1615955403006	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 10:00:03.010: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:332003): Gtk-CRITICAL **: 10:00:14.878: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:332003): Gtk-CRITICAL **: 10:00:14.884: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1615955571136	Marionette	INFO	Stopped listening on port 39339
+Gtk-Message: 10:02:54.051: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:02:54.464: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:02:54.651: Failed to load module "appmenu-gtk-module"
+
+(firefox:333516): GLib-GIO-WARNING **: 10:02:54.731: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615955575146	Marionette	INFO	Listening on port 43027
+1615955575204	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 10:02:55.473: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:333516): Gtk-CRITICAL **: 10:03:15.057: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:333516): Gtk-CRITICAL **: 10:03:15.061: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:333516): Gtk-CRITICAL **: 10:03:49.303: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:333516): Gtk-CRITICAL **: 10:03:49.310: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+Gtk-Message: 10:04:06.220: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:04:06.945: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:04:07.303: Failed to load module "appmenu-gtk-module"
+
+(firefox:334358): GLib-GIO-WARNING **: 10:04:07.412: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 10:04:08.108: Failed to load module "appmenu-gtk-module"
+1615955648114	Marionette	INFO	Listening on port 44093
+1615955648139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:334358): Gtk-CRITICAL **: 10:04:21.122: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:334358): Gtk-CRITICAL **: 10:04:21.128: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1615955731117	Marionette	INFO	Stopped listening on port 44093
+Gtk-Message: 10:07:25.419: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:07:26.109: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:07:26.437: Failed to load module "appmenu-gtk-module"
+
+(firefox:336507): GLib-GIO-WARNING **: 10:07:26.549: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615955847225	Marionette	INFO	Listening on port 41313
+Gtk-Message: 10:07:27.231: Failed to load module "appmenu-gtk-module"
+1615955847251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:336507): Gtk-CRITICAL **: 10:07:39.809: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:336507): Gtk-CRITICAL **: 10:07:39.811: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1615955929815	Marionette	INFO	Stopped listening on port 41313
+Gtk-Message: 10:09:31.800: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:09:32.260: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:09:32.475: Failed to load module "appmenu-gtk-module"
+
+(firefox:337956): GLib-GIO-WARNING **: 10:09:32.548: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615955972953	Marionette	INFO	Listening on port 41311
+1615955973046	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 10:09:33.257: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:337956): Gtk-CRITICAL **: 10:09:45.002: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:337956): Gtk-CRITICAL **: 10:09:45.006: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1615956032771	Marionette	INFO	Stopped listening on port 41311
+Gtk-Message: 10:12:06.108: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:12:06.808: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:12:07.119: Failed to load module "appmenu-gtk-module"
+
+(firefox:339649): GLib-GIO-WARNING **: 10:12:07.241: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615956127894	Marionette	INFO	Listening on port 46673
+Gtk-Message: 10:12:07.897: Failed to load module "appmenu-gtk-module"
+1615956127934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:339649): Gtk-CRITICAL **: 10:12:20.086: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:339649): Gtk-CRITICAL **: 10:12:20.093: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:339649): Gtk-CRITICAL **: 10:12:27.835: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:339649): Gtk-CRITICAL **: 10:12:27.840: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1615956150360	Marionette	INFO	Stopped listening on port 43027
+1615959238383	Marionette	INFO	Stopped listening on port 46673
+Gtk-Message: 11:04:00.000: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:04:01.041: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 11:04:01.482: Failed to load module "appmenu-gtk-module"
+
+(firefox:363776): GLib-GIO-WARNING **: 11:04:01.615: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 11:04:02.727: Failed to load module "appmenu-gtk-module"
+1615959242744	Marionette	INFO	Listening on port 44067
+1615959242811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:363776): Gtk-CRITICAL **: 11:04:17.430: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:363776): Gtk-CRITICAL **: 11:05:08.500: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:363776): Gtk-CRITICAL **: 11:05:08.504: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1615961963640	Marionette	INFO	Stopped listening on port 44067
+Gtk-Message: 12:00:01.267: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:00:02.174: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:00:02.544: Failed to load module "appmenu-gtk-module"
+
+(firefox:389988): GLib-GIO-WARNING **: 12:00:02.664: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615962603406	Marionette	INFO	Listening on port 35973
+Gtk-Message: 12:00:03.426: Failed to load module "appmenu-gtk-module"
+1615962603477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:389988): Gtk-CRITICAL **: 12:00:10.825: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:389988): Gtk-CRITICAL **: 12:00:10.833: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1615962638161	Marionette	INFO	Stopped listening on port 35973
+Gtk-Message: 12:01:28.929: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:01:29.592: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:01:29.857: Failed to load module "appmenu-gtk-module"
+
+(firefox:390853): GLib-GIO-WARNING **: 12:01:29.968: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615962690585	Marionette	INFO	Listening on port 39501
+Gtk-Message: 12:01:30.671: Failed to load module "appmenu-gtk-module"
+1615962690677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.1.654/pb.api.min.v3.js?v=5a51a190983a13c538f862298b7461cc, line 49: asm.js type error: unsupported import expression
+
+(firefox:390853): Gtk-CRITICAL **: 12:01:43.598: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:390853): Gtk-CRITICAL **: 12:04:14.393: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:390853): Gtk-CRITICAL **: 12:04:14.401: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1615966217974	Marionette	INFO	Stopped listening on port 39501
+Gtk-Message: 10:00:03.076: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:00:14.733: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:00:15.783: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:29124): GLib-GIO-WARNING **: 10:00:16.744: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 10:00:18.080: Failed to load module "appmenu-gtk-module"
+1616128218489	Marionette	INFO	Listening on port 40907
+1616128218638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616128226282	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616128353623	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 49: asm.js type error: unsupported import expression
+
+(firefox:29124): Gtk-CRITICAL **: 10:04:50.227: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:29124): Gtk-CRITICAL **: 10:04:50.236: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:29124): Gtk-CRITICAL **: 10:04:57.173: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:29124): Gtk-CRITICAL **: 10:04:57.175: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1616132090065	Marionette	INFO	Stopped listening on port 40907
+Gtk-Message: 12:00:01.270: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:00:02.066: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:00:02.412: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:81094): GLib-GIO-WARNING **: 12:00:02.534: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1616135403274	Marionette	INFO	Listening on port 44017
+Gtk-Message: 12:00:03.275: Failed to load module "appmenu-gtk-module"
+1616135403384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 49: asm.js type error: unsupported import expression
+
+(firefox:81094): Gtk-CRITICAL **: 12:00:23.956: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:81094): Gtk-CRITICAL **: 12:00:23.959: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:81094): Gtk-CRITICAL **: 12:05:37.838: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:81094): Gtk-CRITICAL **: 12:05:37.840: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1616138303596	Marionette	INFO	Stopped listening on port 44017
+Gtk-Message: 10:00:03.148: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:00:12.321: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 10:00:12.811: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:187542): GLib-GIO-WARNING **: 10:00:13.309: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 10:00:13.913: Failed to load module "appmenu-gtk-module"
+1616387414159	Marionette	INFO	Listening on port 42383
+1616387414287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 49: asm.js type error: unsupported import expression
+
+(firefox:187542): Gtk-CRITICAL **: 10:00:34.586: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:187542): Gtk-CRITICAL **: 10:00:34.592: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:187542): Gtk-CRITICAL **: 10:04:56.380: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:187542): Gtk-CRITICAL **: 10:04:56.384: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1616387940598	Marionette	INFO	Stopped listening on port 42383
+Gtk-Message: 12:00:03.114: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:00:12.629: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:00:13.365: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:107596): GLib-GIO-WARNING **: 12:00:14.593: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 12:00:15.775: Failed to load module "appmenu-gtk-module"
+1617690616227	Marionette	INFO	Listening on port 44733
+1617690616361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617690623942	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1617690751194	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 49: asm.js type error: unsupported import expression
+
+(firefox:107596): Gtk-CRITICAL **: 12:05:06.894: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:107596): Gtk-CRITICAL **: 12:05:06.897: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:107596): Gtk-CRITICAL **: 12:05:13.239: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:107596): Gtk-CRITICAL **: 12:05:13.241: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1617691440568	Marionette	INFO	Stopped listening on port 44733
+Gtk-Message: 12:14:05.441: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:14:07.466: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 12:14:07.770: Failed to load module "appmenu-gtk-module"
+
+(firefox:113853): GLib-GIO-WARNING **: 12:14:07.872: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 12:14:08.539: Failed to load module "appmenu-gtk-module"
+1617691448552	Marionette	INFO	Listening on port 34115
+1617691448584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 14: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.3.2.703/pb.api.min.v3.js?v=ed09ba39a18c923f324b3e1ee8abab64, line 49: asm.js type error: unsupported import expression
+
+(firefox:113853): Gtk-CRITICAL **: 12:14:26.338: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:113853): Gtk-CRITICAL **: 12:14:32.759: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:113853): Gtk-CRITICAL **: 12:14:32.766: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1617691486437	Marionette	INFO	Stopped listening on port 34115
+1629767880017	geckodriver	INFO	Listening on 127.0.0.1:58097
+1629767880075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3dRXTG"
+
+(firefox:12036): Gtk-WARNING **: 06:48:02.468: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629767885460	Marionette	INFO	Marionette enabled
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.812: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.813: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.813: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.813: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.813: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.896: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.896: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.897: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.897: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.897: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.915: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.915: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.916: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.916: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12036): Gtk-WARNING **: 06:48:05.916: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3dRXTG/search.json.mozlz4", (void 0)))
+1629767889813	Marionette	INFO	Listening on port 36139
+1629767889961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629767961182	Marionette	INFO	Stopped listening on port 36139
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629768362055	geckodriver	INFO	Listening on 127.0.0.1:51633
+1629768363026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5slA0z"
+
+(firefox:3208): Gtk-WARNING **: 06:56:06.730: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629768373879	Marionette	INFO	Marionette enabled
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.320: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.320: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.320: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.320: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.320: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.425: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.425: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.425: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.425: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.425: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.452: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.452: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.452: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.452: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3208): Gtk-WARNING **: 06:56:14.497: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5slA0z/search.json.mozlz4", (void 0)))
+1629768381825	Marionette	INFO	Listening on port 33405
+1629768382030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+1629768494897	geckodriver	INFO	Listening on 127.0.0.1:33041
+1629768494902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGihV1o"
+
+(firefox:3540): Gtk-WARNING **: 06:58:14.958: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629768496907	Marionette	INFO	Marionette enabled
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.045: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.045: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.045: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.045: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.046: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.148: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.148: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.148: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.149: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.149: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.171: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.171: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.205: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.206: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:3540): Gtk-WARNING **: 06:58:17.206: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGihV1o/search.json.mozlz4", (void 0)))
+1629768498639	Marionette	INFO	Listening on port 45643
+1629768498728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+1629768520141	Marionette	INFO	Stopped listening on port 45643
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629768524132	Marionette	INFO	Stopped listening on port 33405
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629768840048	geckodriver	INFO	Listening on 127.0.0.1:48757
+1629768840063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecsM1Cz"
+
+(firefox:4684): Gtk-WARNING **: 07:04:00.166: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629768842026	Marionette	INFO	Marionette enabled
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.118: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.119: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.119: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.119: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.119: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.185: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.185: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.185: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.185: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.185: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.211: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.211: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.211: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.211: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:4684): Gtk-WARNING **: 07:04:02.211: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecsM1Cz/search.json.mozlz4", (void 0)))
+1629768843655	Marionette	INFO	Listening on port 46253
+1629768843688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629769015933	geckodriver	INFO	Listening on 127.0.0.1:51517
+1629769015937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaL2M9q"
+
+(firefox:5054): Gtk-WARNING **: 07:06:55.978: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629769017877	Marionette	INFO	Marionette enabled
+
+(firefox:5054): Gtk-WARNING **: 07:06:57.978: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:57.978: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:57.979: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:57.979: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:57.979: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.054: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.054: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.054: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.055: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.055: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.082: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.083: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.083: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.083: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 07:06:58.083: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaL2M9q/search.json.mozlz4", (void 0)))
+1629769019025	Marionette	INFO	Listening on port 34177
+1629769019060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+1629769072265	Marionette	INFO	Stopped listening on port 34177
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629769847857	geckodriver	INFO	Listening on 127.0.0.1:38805
+1629769847862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile77qHi6"
+
+(firefox:5924): Gtk-WARNING **: 07:20:47.909: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629769849812	Marionette	INFO	Marionette enabled
+
+(firefox:5924): Gtk-WARNING **: 07:20:49.897: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:49.897: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:49.898: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:49.898: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:49.898: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.015: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.015: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.015: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.016: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.016: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.059: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.059: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.060: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.060: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5924): Gtk-WARNING **: 07:20:50.060: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile77qHi6/search.json.mozlz4", (void 0)))
+1629769851064	Marionette	INFO	Listening on port 34815
+1629769851094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:5924): Gtk-CRITICAL **: 07:21:02.425: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629769877379	Marionette	INFO	Stopped listening on port 34815
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629769927496	geckodriver	INFO	Listening on 127.0.0.1:44515
+1629769927501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegBTbgZ"
+
+(firefox:6246): Gtk-WARNING **: 07:22:07.545: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629769929432	Marionette	INFO	Marionette enabled
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.538: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.538: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.538: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.538: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.538: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.596: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.596: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.596: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.596: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.596: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.618: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.619: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.619: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.619: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6246): Gtk-WARNING **: 07:22:09.619: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegBTbgZ/search.json.mozlz4", (void 0)))
+1629769930657	Marionette	INFO	Listening on port 34695
+1629769930722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:6246): Gtk-CRITICAL **: 07:22:22.000: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:6246): Gtk-CRITICAL **: 07:22:22.010: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629770004606	Marionette	INFO	Stopped listening on port 34695
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629770020742	geckodriver	INFO	Listening on 127.0.0.1:58281
+1629770020747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexlIC6v"
+
+(firefox:6615): Gtk-WARNING **: 07:23:40.793: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629770022722	Marionette	INFO	Marionette enabled
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.805: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.805: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.806: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.806: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.806: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.882: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.882: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.882: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.882: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.882: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.917: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.918: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.918: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.918: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6615): Gtk-WARNING **: 07:23:42.918: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexlIC6v/search.json.mozlz4", (void 0)))
+1629770023894	Marionette	INFO	Listening on port 43383
+1629770023984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:6615): Gtk-CRITICAL **: 07:23:55.128: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:6615): Gtk-CRITICAL **: 07:23:55.142: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629770223378	Marionette	INFO	Stopped listening on port 43383
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629770285788	geckodriver	INFO	Listening on 127.0.0.1:39513
+1629770285792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejwutrH"
+
+(firefox:6984): Gtk-WARNING **: 07:28:05.838: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629770287771	Marionette	INFO	Marionette enabled
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.880: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.880: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.880: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.881: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.881: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.976: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.976: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.976: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.977: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:07.977: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:08.014: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:08.015: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:08.015: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:08.015: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6984): Gtk-WARNING **: 07:28:08.015: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejwutrH/search.json.mozlz4", (void 0)))
+1629770289056	Marionette	INFO	Listening on port 37717
+1629770289115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:6984): Gtk-CRITICAL **: 07:28:20.123: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:6984): Gtk-CRITICAL **: 07:28:20.136: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629770340013	Marionette	INFO	Stopped listening on port 37717
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629770623370	geckodriver	INFO	Listening on 127.0.0.1:53365
+1629770623375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWXiUE2"
+
+(firefox:7422): Gtk-WARNING **: 07:33:43.417: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629770625291	Marionette	INFO	Marionette enabled
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.436: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.436: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.436: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.436: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.436: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.503: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.503: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.503: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.503: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.503: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.528: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.528: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.528: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.529: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7422): Gtk-WARNING **: 07:33:45.529: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWXiUE2/search.json.mozlz4", (void 0)))
+1629770626529	Marionette	INFO	Listening on port 41825
+1629770626600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://meetingsapac9.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+1629770648945	Marionette	INFO	Stopped listening on port 41825
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629770769177	geckodriver	INFO	Listening on 127.0.0.1:55525
+1629770769182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRoOtOQ"
+
+(firefox:7729): Gtk-WARNING **: 07:36:09.222: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629770771076	Marionette	INFO	Marionette enabled
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.165: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.165: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.165: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.165: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.165: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.228: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.228: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.228: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.228: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.228: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.251: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.251: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.252: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.252: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7729): Gtk-WARNING **: 07:36:11.252: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRoOtOQ/search.json.mozlz4", (void 0)))
+1629770772670	Marionette	INFO	Listening on port 42075
+1629770772707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:7729): Gtk-CRITICAL **: 07:36:23.700: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:7729): Gtk-CRITICAL **: 07:36:23.711: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629771000428	Marionette	INFO	Stopped listening on port 42075
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629771178116	geckodriver	INFO	Listening on 127.0.0.1:52483
+1629771178121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileClcOOI"
+
+(firefox:8127): Gtk-WARNING **: 07:42:58.165: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629771180148	Marionette	INFO	Marionette enabled
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.255: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.255: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.255: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.255: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.255: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.362: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.362: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.363: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.363: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.363: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.389: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.389: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.389: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.389: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8127): Gtk-WARNING **: 07:43:00.389: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileClcOOI/search.json.mozlz4", (void 0)))
+1629771181390	Marionette	INFO	Listening on port 37725
+1629771181445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:8127): Gtk-CRITICAL **: 07:43:07.440: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:8127): Gtk-CRITICAL **: 07:43:07.452: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629771243930	Marionette	INFO	Stopped listening on port 37725
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629771399521	geckodriver	INFO	Listening on 127.0.0.1:37747
+1629771399526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecN023R"
+
+(firefox:8495): Gtk-WARNING **: 07:46:39.569: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629771401513	Marionette	INFO	Marionette enabled
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.596: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.596: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.596: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.597: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.597: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.696: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.696: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.696: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.697: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.697: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.732: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.732: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.732: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.732: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8495): Gtk-WARNING **: 07:46:41.733: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecN023R/search.json.mozlz4", (void 0)))
+1629771402677	Marionette	INFO	Listening on port 46121
+1629771402749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:8495): Gtk-CRITICAL **: 07:46:48.993: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:8495): Gtk-CRITICAL **: 07:46:49.003: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629771461580	geckodriver	INFO	Listening on 127.0.0.1:46051
+1629771461585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1QjDHq"
+
+(firefox:8808): Gtk-WARNING **: 07:47:41.627: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629771463469	Marionette	INFO	Marionette enabled
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.551: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.551: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.551: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.551: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.551: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.624: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.624: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.624: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.625: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.625: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.655: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.655: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.655: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.655: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8808): Gtk-WARNING **: 07:47:43.655: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1QjDHq/search.json.mozlz4", (void 0)))
+1629771464598	Marionette	INFO	Listening on port 43565
+1629771464706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:8808): Gtk-CRITICAL **: 07:47:50.485: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:8808): Gtk-CRITICAL **: 07:47:50.493: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629771628947	Marionette	INFO	Stopped listening on port 46121
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629771629800	Marionette	INFO	Stopped listening on port 43565
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629771761016	geckodriver	INFO	Listening on 127.0.0.1:43033
+1629771761020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileexT8Qw"
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.051: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629771761335	Marionette	INFO	Marionette enabled
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.399: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.399: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.399: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.399: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.399: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.445: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.445: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.445: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.445: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.445: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.463: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.463: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.463: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.463: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9482): Gtk-WARNING **: 07:52:41.463: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileexT8Qw/search.json.mozlz4", (void 0)))
+1629771762214	Marionette	INFO	Listening on port 41961
+1629771762237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629771797274	Marionette	INFO	Stopped listening on port 41961
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629771839288	geckodriver	INFO	Listening on 127.0.0.1:48813
+1629771839292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekI8LIU"
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.325: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629771839614	Marionette	INFO	Marionette enabled
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.679: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.679: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.679: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.679: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.698: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.771: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.771: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.771: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.771: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.772: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.790: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.790: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.790: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.791: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9816): Gtk-WARNING **: 07:53:59.791: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekI8LIU/search.json.mozlz4", (void 0)))
+1629771840559	Marionette	INFO	Listening on port 44531
+1629771840607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:9816): Gtk-CRITICAL **: 07:54:20.294: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:9816): Gtk-CRITICAL **: 07:54:20.303: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629771873323	Marionette	INFO	Stopped listening on port 44531
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629771890888	geckodriver	INFO	Listening on 127.0.0.1:46059
+1629771890891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWcCYdk"
+
+(firefox:10123): Gtk-WARNING **: 07:54:50.922: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629771891205	Marionette	INFO	Marionette enabled
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.268: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.268: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.268: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.268: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.268: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.315: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.315: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.315: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.315: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.315: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.333: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.334: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.334: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.334: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10123): Gtk-WARNING **: 07:54:51.334: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWcCYdk/search.json.mozlz4", (void 0)))
+1629771892047	Marionette	INFO	Listening on port 44747
+1629771892108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:10123): Gtk-CRITICAL **: 07:55:14.510: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:10123): Gtk-CRITICAL **: 07:55:14.518: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629771928658	Marionette	INFO	Stopped listening on port 44747
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629771939555	geckodriver	INFO	Listening on 127.0.0.1:43167
+1629771939559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW2Ppkd"
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.591: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629771939876	Marionette	INFO	Marionette enabled
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.939: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.939: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.940: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.940: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.940: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.986: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.986: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.986: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.986: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:39.986: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:40.005: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:40.005: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:40.005: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:40.005: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10427): Gtk-WARNING **: 07:55:40.005: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW2Ppkd/search.json.mozlz4", (void 0)))
+1629771940736	Marionette	INFO	Listening on port 34157
+1629771940772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:10427): Gtk-CRITICAL **: 07:55:49.887: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:10427): Gtk-CRITICAL **: 07:55:49.895: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+1629772090277	Marionette	INFO	Stopped listening on port 34157
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629779400019	geckodriver	INFO	Listening on 127.0.0.1:37771
+1629779400028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegftXqI"
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.062: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1629779400350	Marionette	INFO	Marionette enabled
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.413: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.414: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.414: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.414: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.414: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.459: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.460: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.460: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.460: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.460: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.477: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.477: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.477: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.478: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12176): Gtk-WARNING **: 10:00:00.478: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegftXqI/search.json.mozlz4", (void 0)))
+1629779401223	Marionette	INFO	Listening on port 35507
+1629779401245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:12176): Gtk-CRITICAL **: 10:00:06.759: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:12176): Gtk-CRITICAL **: 10:00:06.766: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:12176): Gtk-CRITICAL **: 10:00:55.257: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:12176): Gtk-CRITICAL **: 10:00:55.262: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://vnit.webex.com/webappng/scripts/walkme.js, line 3: TypeError: document.querySelector(...) is null
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: double is not a subtype of int
+JavaScript warning: https://akamaicdn.webex.com/pb/web/41.8.2.999/api.js?v=aac92ed5ec95dbe4501c450c4428d7c4, line 1: asm.js type error: unsupported import expression
+
+(firefox:12176): Gtk-CRITICAL **: 10:09:00.377: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:12176): Gtk-CRITICAL **: 10:09:00.383: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:12176): Gtk-CRITICAL **: 10:09:07.642: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:12176): Gtk-CRITICAL **: 10:09:07.647: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
